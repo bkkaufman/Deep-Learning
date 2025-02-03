@@ -4,7 +4,7 @@ This repository contains deep learning related projects I have done over time. I
 
 I have blogged about a lot of these projects on Medium - https://medium.com/@priya.dwivedi
 
-I also run a deep learning consultancy - https://deeplearninganalytics.org/
+I also run a deep learning consultancy - https://deeplearninganalytics.org/, https://deeplearninganalytics.org/about-us/
 
 If you want to collaborate on a project please reach out through my website.
 
